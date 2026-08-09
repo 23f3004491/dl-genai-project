@@ -277,8 +277,6 @@ st.write(
     "Enter a multiple-choice question and its five options. "
     "The model predicts the top-3 answers in ranked order using "
     "a three-tier retrieval lookup with a cross-encoder hedge. "
-    "Built for the DL & GenAI course project "
-    "(Roll No 23f3004491)."
 )
 
 
